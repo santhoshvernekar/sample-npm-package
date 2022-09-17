@@ -30,7 +30,7 @@ This repo demonstrates on how we can create sample npm package and publishing to
 ![image](https://user-images.githubusercontent.com/59571096/190870168-953bdc15-0bb0-4ac7-a383-abeb7d891b60.png)
 
 
-Happy Coding!! 
+
 
 ## Testing the working of new package
 
@@ -43,9 +43,12 @@ var randomNumberGeneratorSanthoshSamplePackage = require("random-number-generato
 
 console.log(randomNumberGeneratorSanthoshSamplePackage(10,5))
 
-*  I created a package to generate the random number and print on console along with one custom entry
+*  I created this package to generate the random number and print it on console. 
 
 ![image](https://user-images.githubusercontent.com/59571096/190870913-492b497c-7c3f-4eca-98e5-3bc8d4b33d61.png)
+
+
+Happy Coding!! 
 
 
 
