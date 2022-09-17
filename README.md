@@ -47,6 +47,10 @@ console.log(randomNumberGeneratorSanthoshSamplePackage(10,5))
 
 ![image](https://user-images.githubusercontent.com/59571096/190870913-492b497c-7c3f-4eca-98e5-3bc8d4b33d61.png)
 
+## To update your package
+
+*  Make changes in your package then run **npm version patch** command
+*  Publish it to npm registry using **npm publish** command
 
 Happy Coding!! 
 
