@@ -1,0 +1,11 @@
+{
+  "name": "random-number-generator-santhosh-sample-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, It will be added soon\" && exit 1"
+  },
+  "author": "santhoshmohanvernekar",
+  "license": "ISC"
+}
