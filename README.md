@@ -32,6 +32,21 @@ This repo demonstrates on how we can create sample npm package and publishing to
 
 Happy Coding!! 
 
+## Testing the working of new package
+
+*  NPM RunKit  (https://npm.runkit.com/random-number-generator-santhosh-sample-package)
+
+
+*  Invoke the method we created using below piece of code and click on run button
+
+var randomNumberGeneratorSanthoshSamplePackage = require("random-number-generator-santhosh-sample-package")
+
+console.log(randomNumberGeneratorSanthoshSamplePackage(10,5))
+
+
+![image](https://user-images.githubusercontent.com/59571096/190870913-492b497c-7c3f-4eca-98e5-3bc8d4b33d61.png)
+
+
 
 
 
