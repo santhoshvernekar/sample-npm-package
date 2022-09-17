@@ -24,7 +24,7 @@ This repo demonstrates on how we can create sample npm package and publishing to
 ![image](https://user-images.githubusercontent.com/59571096/190870082-fc1bc8be-6d9b-410c-9a18-b93bba2c8a32.png)
 
 
-*  Your new package will be published to your npm registry like mine  :)
+*  Your new package will be published to your npm registry like mine  :) https://www.npmjs.com/package/random-number-generator-santhosh-sample-package
 
 
 ![image](https://user-images.githubusercontent.com/59571096/190870168-953bdc15-0bb0-4ac7-a383-abeb7d891b60.png)
